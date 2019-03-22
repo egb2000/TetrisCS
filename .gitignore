@@ -1,0 +1,6 @@
+*.suo
+*.lock
+bin
+obj
+v15
+/.vs
